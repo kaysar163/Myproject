@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "MaharAaDemo",
+      "usertype": "Admin",
+      "age": "21",
+      "active": true
+    },
+    {
+      "username": "student",
+      "password": "MahraDemo",
+      "usertype": "student",
+      "age": "23",
+      "active": true
+    },
+    {
+      "username": "lerner",
+      "password": "MaharaDemo",
+      "usertype": "learner",
+      "age": "25",
+      "active": true
+    }
+  ]
+}

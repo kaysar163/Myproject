@@ -1,0 +1,33 @@
+{
+  "services": "SDET training",
+  "expertise": "Automation",
+  "instructor": "Jonne David",
+  "linkedIn": "https://www.linkedIn.com",
+  "url": "https://seleniummaster.teachable.com/",
+  "courses": {
+    "webAutomation": [
+      {
+        "course title": "Selenium-Webdriver-Java",
+        "price": 50
+      },
+      {
+        "course title": "Cypress",
+        "price": 50
+      },
+      {
+        "course title": "BDD-Cucumber_Java",
+        "price": 50
+      }
+    ],
+    "api": [
+      {
+        "course title": "RestAssured-api_testting",
+        "price": 100
+      },
+      {
+        "course title": "Soup-UI_Webervices_testing",
+        "price": 100
+      }
+    ]
+  }
+}

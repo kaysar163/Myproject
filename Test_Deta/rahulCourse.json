@@ -1,0 +1,24 @@
+{
+  "dashboard": {
+    "purchaseAmount": 910,
+    "website":"rahushettyacademy.com"
+  },
+  "courses": [
+    {
+      "title": "Selenium Python",
+      "price": 50,
+      "copies": 6
+    },
+    {
+      "title":"Cypress",
+      "price": 40,
+      "copies": 4
+    },
+    {
+      "title": "RAPA",
+      "price": 45,
+      "copies": 10
+    }
+  ]
+
+  }
